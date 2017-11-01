@@ -1,0 +1,19 @@
+getNumberFromUserIntent {num}
+getNumberFromUserIntent The number I choose is {num}
+getNumberFromUserIntent number I choose is {num}
+getNumberFromUserIntent number I chose was {num}
+getNumberFromUserIntent Numer {num}
+getNumberFromUserIntent Numer is {num}
+getNumberFromUserIntent My Numer is {num}
+onlaunch launch push one two hundred
+onlaunch open push one two hundred
+onlaunch start push one two hundred
+onlaunch play push one two hundred
+onlaunch push one two hundred
+AMAZON.NoIntent naa
+AMAZON.NoIntent nah
+AMAZON.StopIntent stop
+AMAZON.StopIntent off
+AMAZON.StopIntent shut up
+AMAZON.StopIntent sleep
+AMAZON.StopIntent turn off
