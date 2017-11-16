@@ -10,6 +10,15 @@
       "intent": "getNumberFromUserIntent"
     },
     {
+      "slots": [
+        {
+          "name": "digit",
+          "type": "AMAZON.NUMBER"
+        }
+      ],
+      "intent": "getNumberFromUsrIntent"
+    },
+    {
       "intent": "onlaunch"
     },
     {
