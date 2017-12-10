@@ -1,3 +1,7 @@
 getNumberFromUserIntent {num}
 getNumberFromUserIntent Number is {num}
 getNumberFromUserIntent Numbers are {num}
+planIntent Plan {plan}
+planIntent Plan is {plan}
+planIntent The Plan is {plan}
+planIntentJustMe My plan is Just Me

@@ -12,11 +12,14 @@
     {
       "slots": [
         {
-          "name": "digit",
-          "type": "AMAZON.NUMBER"
+          "name": "plan",
+          "type": "PLAN"
         }
       ],
-      "intent": "getNumberFromUsrIntent"
+      "intent": "planIntent"
+    },
+    {
+      "intent": "planIntentJustMe"
     },
     {
       "intent": "onlaunch"
